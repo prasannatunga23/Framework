@@ -33,9 +33,9 @@ my-maven-project
 │                   └── automation
 │                       └── UserTodosTest.java
 └── src
-    └── main
+    └── test
         └── resources
-            └── logback.xml (or log4j2.xml)
+            └── testng.xml 
 
 Step 3: pom.xml
 Add dependencies for SLF4J, Logback (or Log4j 2), RestAssured, ExtenetReports and TestNG in your pom.xml:
