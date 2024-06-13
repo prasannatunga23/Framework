@@ -1,4 +1,4 @@
-package com.userTodos.tests;
+package com.userTodos.Tests;
 
 
 import org.json.JSONArray;
@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import com.utils.UserUtils;
 import com.validators.UserValidators;
 
-import apiHelpers.UserHelpers;
+import ApiHelpers.UserHelpers;
 
 public class UserTodosTest{
     UserHelpers helpers=new UserHelpers();
