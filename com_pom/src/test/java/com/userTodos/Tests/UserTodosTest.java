@@ -1,4 +1,4 @@
-package com.userTodos.tests;
+package com.userTodos.Tests;
 
 
 import org.json.JSONArray;
