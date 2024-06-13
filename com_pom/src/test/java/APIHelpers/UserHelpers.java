@@ -1,4 +1,4 @@
-package apiHelpers;
+package ApiHelpers;
 
 import org.json.JSONArray;
 
