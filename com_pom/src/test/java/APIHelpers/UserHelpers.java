@@ -1,8 +1,8 @@
-package APIHelpers;
+package apiHelpers;
 
 import org.json.JSONArray;
 
-import com.Endpoints.Routes;
+import com.endpoints.Routes;
 
 import static io.restassured.RestAssured.given;
 import io.restassured.http.ContentType;

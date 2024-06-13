@@ -6,7 +6,7 @@
 	</listeners>
     <test name="User Todos Tests">
         <classes>
-            <class name="com.userTodos.Tests.UserTodosTest"/>
+            <class name="com.userTodos.tests.UserTodosTest"/>
         </classes>
     </test>
 </suite>

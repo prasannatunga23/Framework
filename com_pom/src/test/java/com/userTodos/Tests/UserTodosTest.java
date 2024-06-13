@@ -1,13 +1,14 @@
-package com.userTodos.Tests;
+package com.userTodos.tests;
+
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
 
-import com.Utils.UserUtils;
-import com.Validators.UserValidators;
+import com.utils.UserUtils;
+import com.validators.UserValidators;
 
-import APIHelpers.UserHelpers;
+import apiHelpers.UserHelpers;
 
 public class UserTodosTest{
     UserHelpers helpers=new UserHelpers();
