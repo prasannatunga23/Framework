@@ -5,8 +5,8 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 import org.testng.annotations.Test;
 
-import com.Utils.UserUtils;
-import com.Validators.UserValidators;
+import com.utils.UserUtils;
+import com.validators.UserValidators;
 
 import apiHelpers.UserHelpers;
 
