@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-13T14:27:07Z" name="Surefire suite" finished-at="2024-06-13T14:27:13Z" duration-ms="6086">
+    <groups>
+    </groups>
+    <test started-at="2024-06-13T14:27:07Z" name="Surefire test" finished-at="2024-06-13T14:27:13Z" duration-ms="6086">
+      <class name="com.userTodos.tests.UserTodosTest">
+        <test-method signature="testUsersInFanCodeCityHaveMoreThanHalfTodosCompleted()[pri:0, instance:com.userTodos.tests.UserTodosTest@6ca8564a]" started-at="2024-06-13T14:27:07Z" name="testUsersInFanCodeCityHaveMoreThanHalfTodosCompleted" description="Verify Users belonging to City FanCode has completed 50% of their Todos" finished-at="2024-06-13T14:27:13Z" duration-ms="6050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsersInFanCodeCityHaveMoreThanHalfTodosCompleted -->
+      </class> <!-- com.userTodos.tests.UserTodosTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
