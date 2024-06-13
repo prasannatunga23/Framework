@@ -50,3 +50,5 @@ Step 7: Create TestNG xml file
 Create testng.xml file with Listeners to run teh suite
 
 Step 7: Running Tests
+Go to the project directory
+Run command mvn clean test to run the test and allure serve allure-results to generate allure report http://192.168.0.100:60611/index.html#
