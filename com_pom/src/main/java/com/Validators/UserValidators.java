@@ -1,4 +1,4 @@
-package com.validators;
+package com.Validators;
 
 import org.testng.Assert;
 

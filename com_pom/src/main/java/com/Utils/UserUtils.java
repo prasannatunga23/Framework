@@ -1,4 +1,4 @@
-package com.utils;
+package com.Utils;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
