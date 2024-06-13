@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import com.utils.UserUtils;
 import com.validators.UserValidators;
 
-import APIHelpers.UserHelpers;
+import apiHelpers.UserHelpers;
 
 public class UserTodosTest{
     UserHelpers helpers=new UserHelpers();
